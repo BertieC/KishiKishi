@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kishi", "kishi.csproj", "{4489A783-8EBE-1012-3A68-DF79BC3DD066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kishi.Editor", "kishi.Editor.csproj", "{719C4BA3-83AF-D471-C2B2-B3C0E9414AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4489A783-8EBE-1012-3A68-DF79BC3DD066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4489A783-8EBE-1012-3A68-DF79BC3DD066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4489A783-8EBE-1012-3A68-DF79BC3DD066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4489A783-8EBE-1012-3A68-DF79BC3DD066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{719C4BA3-83AF-D471-C2B2-B3C0E9414AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719C4BA3-83AF-D471-C2B2-B3C0E9414AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719C4BA3-83AF-D471-C2B2-B3C0E9414AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719C4BA3-83AF-D471-C2B2-B3C0E9414AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
